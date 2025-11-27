@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/OSINT-Defense-blue?style=for-the-badge&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentesting-Audit-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-8f00ff?style=for-the-badge&logo=wireguard&logoColor=white" />
+  
+  <br>
 
-<!--
-**D09ED094/D09ED094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://img.shields.io/badge/HomeLab-RPi5-gray?style=for-the-badge&logo=raspberrypi&logoColor=red" />
+  <img src="https://img.shields.io/badge/Security-FIDO2_Keys-darkgray?style=for-the-badge&logo=yubico&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT_Security-Flipper_Zero-black?style=for-the-badge&logo=flipper-zero&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Ключевые Проекты и Репозитории
+
+* **[]** (Пример ссылки): Telegram Бот для Автоматического Создания Заметок Obsidian с Gemini AI.
+* **[]** (Пример ссылки): Telegram Bot для AI-анализа PDF и Ультра-Сжатых Сводок о людях.
+* **[]** (Пример ссылки): Поиск Документов, AI-Ассистент и Рассылка Дней Рождения.
