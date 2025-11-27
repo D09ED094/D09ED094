@@ -24,4 +24,4 @@
 
 * **[Telegram-Obsidian-Bridge](http://github.com/D09ED094/Telegram-Obsidian-Bridge)** : Telegram Бот для Автоматического Создания Заметок Obsidian с Gemini AI.
 * **[Telegram-AI-Doc-Parser](https://github.com/D09ED094/Telegram-AI-Doc-Parser)** : Telegram Bot для AI-анализа PDF и Ультра-Сжатых Сводок о людях.
-* **[]** : Поиск Документов, AI-Ассистент и Рассылка Дней Рождения.
+* **[File-finder-bot](https://github.com/D09ED094/File-finder-bot)** : Поиск Документов, AI-Ассистент и Рассылка Дней Рождения.
