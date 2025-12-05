@@ -17,11 +17,3 @@
   <img src="https://img.shields.io/badge/Security-FIDO2_Keys-darkgray?style=for-the-badge&logo=yubico&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT_Security-Flipper_Zero-black?style=for-the-badge&logo=flipper-zero&logoColor=white" />
 </p>
-
----
-
-## 💻 Ключевые Проекты и Репозитории
-
-* **[Telegram-Obsidian-Bridge](http://github.com/D09ED094/Telegram-Obsidian-Bridge)** : Telegram Бот для Автоматического Создания Заметок Obsidian с Gemini AI.
-* **[Telegram-AI-Doc-Parser](https://github.com/D09ED094/Telegram-AI-Doc-Parser)** : Telegram Bot для AI-анализа PDF и Ультра-Сжатых Сводок о людях.
-* **[File-finder-bot](https://github.com/D09ED094/File-finder-bot)** : Поиск Документов, AI-Ассистент и Рассылка Дней Рождения.
