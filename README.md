@@ -17,3 +17,4 @@
   <img src="https://img.shields.io/badge/Security-FIDO2_Keys-darkgray?style=for-the-badge&logo=yubico&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT_Security-Flipper_Zero-black?style=for-the-badge&logo=flipper-zero&logoColor=white" />
 </p>
+![Snake animation](https://raw.githubusercontent.com/D09ED094/D09ED094/output/github-contribution-grid-snake-dark.svg)
