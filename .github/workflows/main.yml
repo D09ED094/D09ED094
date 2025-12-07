@@ -13,6 +13,10 @@ on:
     branches:
     - main
 
+permissions:
+  contents: write # Разрешает запись (push) в репозиторий
+  pages: write    # Разрешает публикацию на GitHub Pages (на всякий случай)
+
 jobs:
   generate:
     runs-on: ubuntu-latest
